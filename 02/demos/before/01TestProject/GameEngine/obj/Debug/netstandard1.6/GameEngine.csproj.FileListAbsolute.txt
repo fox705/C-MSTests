@@ -1,0 +1,9 @@
+C:\Users\Michał\Documents\C# MSTestTutorialCode\02\demos\before\01TestProject\GameEngine\bin\Debug\netstandard1.6\GameEngine.deps.json
+C:\Users\Michał\Documents\C# MSTestTutorialCode\02\demos\before\01TestProject\GameEngine\bin\Debug\netstandard1.6\GameEngine.dll
+C:\Users\Michał\Documents\C# MSTestTutorialCode\02\demos\before\01TestProject\GameEngine\bin\Debug\netstandard1.6\GameEngine.pdb
+C:\Users\Michał\Documents\C# MSTestTutorialCode\02\demos\before\01TestProject\GameEngine\obj\Debug\netstandard1.6\GameEngine.csprojAssemblyReference.cache
+C:\Users\Michał\Documents\C# MSTestTutorialCode\02\demos\before\01TestProject\GameEngine\obj\Debug\netstandard1.6\GameEngine.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Documents\C# MSTestTutorialCode\02\demos\before\01TestProject\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfoInputs.cache
+C:\Users\Michał\Documents\C# MSTestTutorialCode\02\demos\before\01TestProject\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfo.cs
+C:\Users\Michał\Documents\C# MSTestTutorialCode\02\demos\before\01TestProject\GameEngine\obj\Debug\netstandard1.6\GameEngine.dll
+C:\Users\Michał\Documents\C# MSTestTutorialCode\02\demos\before\01TestProject\GameEngine\obj\Debug\netstandard1.6\GameEngine.pdb
